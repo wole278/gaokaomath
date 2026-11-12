@@ -1,0 +1,11 @@
+# Environment & secrets
+.env*
+*.key
+*.pem
+
+# Logs & temp
+*.log
+
+# OS artifacts
+.DS_Store
+Thumbs.db
